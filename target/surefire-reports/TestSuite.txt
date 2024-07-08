@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 146.431 s <<< FAILURE! - in TestSuite
+pageTitleTest(com.CRM.qa.testcases.CRMPageTest)  Time elapsed: 0.042 s  <<< FAILURE!
+java.lang.AssertionError: expected [#1 Free CRM Power Up your Entire Business Free Forever] but found [#1 Free CRM Power Up your Entire Business Free Forever customer relationship management]
+	at com.CRM.qa.testcases.CRMPageTest.pageTitleTest(CRMPageTest.java:33)
+
+pageTitletest(com.CRM.qa.testcases.LoginPageTest)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: expected [ CRM] but found [Cogmento CRM]
+	at com.CRM.qa.testcases.LoginPageTest.pageTitletest(LoginPageTest.java:37)
+

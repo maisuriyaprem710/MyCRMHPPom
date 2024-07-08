@@ -1,0 +1,6 @@
+com\CRM\qa\testcases\SignupPageTest.class
+com\CRM\qa\testcases\HomePagetest.class
+com\CRM\qa\testcases\ContactsPageTest.class
+com\CRM\qa\testcases\CRMPageTest.class
+com\CRM\qa\testcases\ListenerTest.class
+com\CRM\qa\testcases\LoginPageTest.class
